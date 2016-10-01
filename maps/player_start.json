@@ -1,0 +1,37 @@
+{ "height":10,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJzjYmBg4KIBNidSjFTMAsXUUjdQ\/sCFAZHlBIU=",
+         "encoding":"base64",
+         "height":10,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "columns":9,
+         "firstgid":1,
+         "image":"..\/tilesets\/angband\/dg_grounds32.gif",
+         "imageheight":608,
+         "imagewidth":288,
+         "margin":0,
+         "name":"base",
+         "spacing":0,
+         "tilecount":171,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "version":1,
+ "width":10
+}
